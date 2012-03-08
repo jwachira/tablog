@@ -1,0 +1,126 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+.postbox2donate {
+	background-image: -moz-linear-gradient(top, #FDD1FF 0%, #EA58EF 100%);
+	background-image: -o-linear-gradient(top, #FDD1FF 0%, #EA58EF 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FDD1FF), color-stop(1, #EA58EF));
+	background-image: -webkit-linear-gradient(top, #FDD1FF 0%, #EA58EF 100%);
+	background-image: linear-gradient(top, #FDD1FF 0%, #EA58EF 100%);
+	border:1px solid #F77CF3;
+}
+
+.inside2donate {
+	background-color:#FCF0FC;
+	border-top:1px solid #F77CF3;
+}
+
+.postbox2resources {
+	background-image: -ms-linear-gradient(top, #D1FFE4 0%, #59F08E 100%);
+	background-image: -moz-linear-gradient(top, #D1FFE4 0%, #59F08E 100%);
+	background-image: -o-linear-gradient(top, #D1FFE4 0%, #59F08E 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #D1FFE4), color-stop(1, #59F08E));
+	background-image: -webkit-linear-gradient(top, #D1FFE4 0%, #59F08E 100%);
+	background-image: linear-gradient(top, #D1FFE4 0%, #59F08E 100%);
+	margin-top:20px;
+	border:1px solid #7CF780;
+}
+
+.inside2resources {
+	background-color:#F0FCF2;
+	border-top:1px solid #7CF786;
+}
+
+.postbox2vote {
+	background-image: -ms-linear-gradient(top, #FDFFD1 0%, #F0F059 100%);
+	background-image: -moz-linear-gradient(top, #FDFFD1 0%, #F0F059 100%);
+	background-image: -o-linear-gradient(top, #FDFFD1 0%, #F0F059 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FDFFD1), color-stop(1, #F0F059));
+	background-image: -webkit-linear-gradient(top, #FDFFD1 0%, #F0F059 100%);
+	background-image: linear-gradient(top, #FDFFD1 0%, #F0F059 100%);
+	margin-top:20px;
+	border:1px solid #EAF522;
+}
+
+.inside2vote {
+	background-color:#F4F7CD;
+	border-top:1px solid #F3F77C;
+}
+
+.postbox2blog {
+	background-image: -ms-linear-gradient(top, #FAE398 0%, #F2B629 100%);
+	background-image: -moz-linear-gradient(top, #FAE398 0%, #F2B629 100%);
+	background-image: -o-linear-gradient(top, #FAE398 0%, #F2B629 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FAE398), color-stop(1, #F2B629));
+	background-image: -webkit-linear-gradient(top, #FAE398 0%, #F2B629 100%);
+	background-image: linear-gradient(top, #FAE398 0%, #F2B629 100%);
+	margin-top:20px;
+	border:1px solid #F5BD07;
+}
+
+.inside2blog {
+	background-color:#FAEFB6;
+	border-top:1px solid #F7CE45;
+}
+
+.postbox2feedback {
+	background-image: -ms-linear-gradient(top, #FFDAD1 0%, #F07E59 100%);
+	background-image: -moz-linear-gradient(top, #FFDAD1 0%, #F07E59 100%);
+	background-image: -o-linear-gradient(top, #FFDAD1 0%, #F07E59 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFDAD1), color-stop(1, #F07E59));
+	background-image: -webkit-linear-gradient(top, #FFDAD1 0%, #F07E59 100%);
+	background-image: linear-gradient(top, #FFDAD1 0%, #F07E59 100%);
+	margin-top:20px;
+	border:1px solid #F55022;
+}
+
+.inside2feedback {
+	background-color:#F7D3CD;
+	border-top:1px solid #F78C7C;
+}
+
+.postbox2 {
+	background-image: -ms-linear-gradient(top, #FDD1FF 0%, #EA58EF 100%);
+	background-image: -moz-linear-gradient(top, #FDD1FF 0%, #EA58EF 100%);
+	background-image: -o-linear-gradient(top, #FDD1FF 0%, #EA58EF 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FDD1FF), color-stop(1, #EA58EF));
+	background-image: -webkit-linear-gradient(top, #FDD1FF 0%, #EA58EF 100%);
+	background-image: linear-gradient(top, #FDD1FF 0%, #EA58EF 100%);
+	margin-top:20px;
+	border:1px solid #F77CF3;
+}
+
+.postbox2poll {
+	background-image: -ms-linear-gradient(top, #D1FFD4 0%, #64EF5B 100%);
+	background-image: -moz-linear-gradient(top, #D1FFD4 0%, #64EF5B 100%);
+	background-image: -o-linear-gradient(top, #D1FFD4 0%, #64EF5B 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #D1FFD4), color-stop(1, #64EF5B));
+	background-image: -webkit-linear-gradient(top, #D1FFD4 0%, #64EF5B 100%);
+	background-image: linear-gradient(top, #D1FFD4 0%, #64EF5B 100%);
+	margin-top:20px;
+	border:1px solid #08D147;
+}
+
+.inside2poll {
+	background-color:#DEF4D9;
+	border-top:1px solid #90F779;
+}
+
+.postbox2firefox {
+	background-image: -ms-linear-gradient(top, #B8D5DD 0%, #5CA7ED 100%);
+	background-image: -moz-linear-gradient(top, #B8D5DD 0%, #5CA7ED 100%);
+	background-image: -o-linear-gradient(top, #B8D5DD 0%, #5CA7ED 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #B8D5DD), color-stop(1, #5CA7ED));
+	background-image: -webkit-linear-gradient(top, #B8D5DD 0%, #5CA7ED 100%);
+	background-image: linear-gradient(top, #B8D5DD 0%, #5CA7ED 100%);
+	margin-top:20px;
+	border:1px solid #085ACE;
+}
+
+.inside2firefox {
+	background-color:#EDEEF2;
+	border-top:1px solid #7795F4;
+}
+
+/* CSS for tooltips */

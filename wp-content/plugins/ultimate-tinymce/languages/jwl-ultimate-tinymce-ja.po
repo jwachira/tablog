@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jwl-ultimate-tinymce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-04 02:07+0900\n"
+"PO-Revision-Date: 2011-12-04 05:22+0900\n"
+"Last-Translator: redcocker <masa153@gmail.com>\n"
+"Language-Team: redcocker\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../main.php:76
+msgid "Settings"
+msgstr "設定"
+
+#: ../main.php:100
+msgid "Bold Red Text"
+msgstr "太字 レッド"
+
+#: ../main.php:101
+msgid "Bold Green Text"
+msgstr "太字 グリーン"
+
+#: ../main.php:102
+msgid "Bold Blue Text"
+msgstr "太字 ブルー"
+
+#: ../main.php:103
+msgid "Borders"
+msgstr "枠"
+
+#: ../main.php:104
+msgid "Border Black"
+msgstr "枠 ブラック"
+
+#: ../main.php:105
+msgid "Border Red"
+msgstr "枠 レッド"
+
+#: ../main.php:106
+msgid "Border Green"
+msgstr "枠 グリーン"
+
+#: ../main.php:107
+msgid "Border Blue"
+msgstr "枠 ブルー"
+
+#: ../main.php:108
+msgid "Float"
+msgstr "Floatプロパティ"
+
+#: ../main.php:109
+msgid "Float Left"
+msgstr "float: leftを適用"
+
+#: ../main.php:110
+msgid "Float Right"
+msgstr "float: rightを適用"
+
+#: ../main.php:111
+msgid "Alerts"
+msgstr "通知文"
+
+#: ../main.php:112
+msgid "Normal Alert"
+msgstr "通知文 ノーマル"
+
+#: ../main.php:113
+msgid "Green Alert"
+msgstr "通知文 グリーン"
+
+#: ../main.php:114
+msgid "Yellow Alert"
+msgstr "通知文 イエロー"
+
+#: ../main.php:115
+msgid "Red Alert"
+msgstr "通知文 レッド"
+
+#: ../main.php:133
+msgid "Ultimate TinyMCE"
+msgstr "Ultimate TinyMCE"
+
+#: ../main.php:146
+msgid "Ultimate TinyMCE Plugin Menu"
+msgstr "Ultimate TinyMCE プラグイン メニュー"
+
+#: ../main.php:168
+msgid "Save your Selection"
+msgstr "設定を保存"
+
+#: ../main.php:178
+msgid "Donations"
+msgstr "寄付"
+
+#: ../main.php:180
+msgid "Even the smallest donations are gratefully accepted."
+msgstr "少額でも寄付頂けましたら大変嬉しいです。"
+
+#: ../main.php:193
+msgid "Additional Resources"
+msgstr "その他の情報、資料"
+
+#: ../main.php:195
+msgid "View plugin documentation (opens in Word)."
+msgstr "Word形式の説明書を読む。"
+
+#: ../main.php:196
+msgid "Screencast part one"
+msgstr "動画　パート１"
+
+#: ../main.php:197
+msgid "Screencast part two"
+msgstr "動画　パート２"
+
+#: ../main.php:198
+msgid "Get help from my personal blog."
+msgstr "作者のブログの記事を読む。"
+
+#: ../main.php:199
+msgid "Post a thread in the Wordpress Plugin Page."
+msgstr "このプラグインのフォーラムに投稿する。"
+
+#: ../main.php:200
+msgid "Email me directly using my contact form."
+msgstr "メールフォームから作者にメールを送る。"
+
+#: ../main.php:201
+msgid "Subscribe to my RSS Feed."
+msgstr "RSSフィードを購読"
+
+#: ../main.php:202
+msgid "Follow me on "
+msgstr "フォローする。 "
+
+#: ../main.php:202
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../main.php:202
+msgid " and "
+msgstr "と"
+
+#: ../main.php:202
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../main.php:209
+msgid "Please VOTE and click WORKS."
+msgstr "評価と動作報告をお願いします"
+
+#: ../main.php:211
+msgid "Click Here to Vote..."
+msgstr "ここをクリックして評価する..."
+
+#: ../main.php:211
+msgid "Voting helps my plugin get more exposure and higher rankings on the searches."
+msgstr "あたたの評価は、このプラグインが検索上で注目を集め、高いランキングを獲得するために役立ちます。"
+
+#: ../main.php:211
+msgid "Please help spread this wonderful plugin by showing your support.  Thank you!"
+msgstr "この素晴らしいプラグインの事を広く知って貰えるように、あなたが支持していることを示して下さい。ご協力に感謝します。"
+
+#: ../main.php:218
+msgid "Feedback"
+msgstr "ご意見、ご感想"
+
+#: ../main.php:220
+msgid "Please take a moment to complete the short feedback form below.  Your input is greatly appreciated."
+msgstr "下のフィードバックフォームを記入するための時間を少しだけ下さい。 フィードバックを頂けると、非常に有難いです。"
+
+#: ../main.php:240
+msgid "Row 3 Button Settings"
+msgstr "3行目のボタンの設定"
+
+#: ../main.php:241
+msgid "Row 4 Button Settings"
+msgstr "4行目のボタンの設定"
+
+#: ../main.php:247
+msgid "Font Select Box"
+msgstr "フォント"
+
+#: ../main.php:248
+msgid "Font Size Box"
+msgstr "文字サイズ"
+
+#: ../main.php:249
+msgid "Style Select Box"
+msgstr "スタイル"
+
+#: ../main.php:250
+msgid "Cut Box"
+msgstr "切り取り"
+
+#: ../main.php:251
+msgid "Copy Box"
+msgstr "コピー"
+
+#: ../main.php:252
+msgid "Paste Box"
+msgstr "貼り付け"
+
+#: ../main.php:253
+msgid "Background Color Picker Box"
+msgstr "背景色"
+
+#: ../main.php:254
+msgid "Foreground Color Picker Box"
+msgstr "文字色"
+
+#: ../main.php:255
+msgid "Horizontal Row Box"
+msgstr "水平線"
+
+#: ../main.php:256
+msgid "Visual Aid Box"
+msgstr "ガイドラインと非表示項目の表示切替"
+
+#: ../main.php:257
+msgid "Anchor Box"
+msgstr "アンカーの挿入/編集"
+
+#: ../main.php:258
+msgid "Subscript Box"
+msgstr "下付き"
+
+#: ../main.php:259
+msgid "Superscript Box"
+msgstr "上付き"
+
+#: ../main.php:260
+msgid "Search Box"
+msgstr "検索"
+
+#: ../main.php:261
+msgid "Replace Box"
+msgstr "検索/置換"
+
+#: ../main.php:263
+msgid "Josh's Ultimate Moods Box"
+msgstr "ジョシュの究極の表情アイコン"
+
+#: ../main.php:266
+msgid "Table Controls Box"
+msgstr "表組み"
+
+#: ../main.php:267
+msgid "Emotions Box"
+msgstr "表情アイコン"
+
+#: ../main.php:268
+msgid "Advanced Image Box"
+msgstr "画像の挿入/編集"
+
+#: ../main.php:269
+msgid "Preview Box"
+msgstr "プレビュー"
+
+#: ../main.php:270
+msgid "Citations Box"
+msgstr "引用"
+
+#: ../main.php:271
+msgid "Abbreviations Box"
+msgstr "略語"
+
+#: ../main.php:272
+msgid "Acronym Box"
+msgstr "頭字語"
+
+#: ../main.php:273
+msgid "Delete Box"
+msgstr "削除"
+
+#: ../main.php:274
+msgid "Insert Box"
+msgstr "挿入"
+
+#: ../main.php:275
+msgid "Attributes Box"
+msgstr "属性の挿入/削除"
+
+#: ../main.php:276
+msgid "Styleprops Box"
+msgstr "CSS編集"
+
+#: ../main.php:277
+msgid "HTML Code Box"
+msgstr "HTMLソース編集"
+
+#: ../main.php:279
+msgid "Insert Media Box"
+msgstr "埋め込みメディアの挿入/編集"
+
+#: ../main.php:335
+msgid "<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;Here you can select which buttons to include in row 3 of the TinyMCE editor.</strong></p>"
+msgstr "<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;TinyMCEエディターの3行目に表示させるボタンを選択して下さい。</strong></p>"
+
+#: ../main.php:339
+msgid "<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;Here you can select which buttons to include in row 4 of the TinyMCE editor.</strong></p>"
+msgstr "<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;TinyMCEエディターの4行目に表示させるボタンを選択して下さい。</strong></p>"
+

@@ -208,6 +208,7 @@
 					echo str_replace(" ", "-", basename($_FILES['Filedata']['name']));
 				} else {
 					echo "false";
+					echo $target."/".str_replace(" ", "-", basename($_FILES['Filedata']['name']));
 				}
 			}
 		}
